@@ -50,7 +50,7 @@ The main application logic is located in index.js. It connects to a MongoDB data
 - seed.js: Seeds the database with initial product data.
 
 ### Technologies Used
-Node.js
-Express.js
-MongoDB
+1. Node.js
+2. Express.js
+3. MongoDB
 
