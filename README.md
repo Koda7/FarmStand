@@ -8,7 +8,7 @@ These instructions will help you set up and run the project on your local machin
 
 ### Prerequisites
 - [Node.js](https://nodejs.org/) installed
-- [MongoDB](https://www.mongodb.com/) installed and running locallyitali
+- [MongoDB](https://www.mongodb.com/) installed and running locally
 
 ### Installation
 
