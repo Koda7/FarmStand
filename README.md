@@ -32,7 +32,7 @@ These instructions will help you set up and run the project on your local machin
 
 Open your browser and visit http://localhost:3000/products to see the FarmStand app in action.
 
-###Features
+### Features
 - View products
 - Add new products
 - Edit existing products
